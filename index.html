@@ -128,6 +128,11 @@
       </div>
     </section>
 
-    <footer>Mohammed Jasim Anikkadan<br />&copy;2020</footer>
+    <footer>Mohammed Jasim Anikkadan<br />&copy;<span id="year"></span></footer>
+
+    <script>
+      const year = new Date().getFullYear;
+      document.getElementById("year").innerHTML = year;
+    </script>
   </body>
 </html>
