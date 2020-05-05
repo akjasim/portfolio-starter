@@ -55,7 +55,7 @@
 
 #about {
   text-align: center;
-  background-color: #3800a1;
+  background-color: #af009b;
 }
 
 .about-header h1,
@@ -82,7 +82,7 @@
 }
 
 #services {
-  background-color: #af009b;
+  background-color: #3800a1;
   text-align: center;
 }
 
@@ -100,7 +100,7 @@
 }
 
 .service-card:hover {
-  background-color: #3800a1;
+  background-color: #af009b;
   color: white;
 }
 
@@ -110,7 +110,7 @@
 
 #contact {
   text-align: center;
-  background-color: #3800a1;
+  background-color: #af009b;
 }
 
 .contact-caption h2 {
@@ -135,7 +135,7 @@
 }
 
 .btn:hover {
-  background-color: #6b3eb3;
+  background-color: #af009b;
   color: white;
 }
 
